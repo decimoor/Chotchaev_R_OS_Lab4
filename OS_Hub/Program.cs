@@ -54,7 +54,7 @@ namespace OS_Hub
             catch { goto _OS_imax; }
             path = Directory.GetCurrentDirectory();
             DirectoryInfo info = new(path);
-            while (path != "" && (info.Name != "OS_Practice_4" || info.Name != "OS_Practice_4-master"))
+            while (path != "" && (info.Name != "OS_Practice_4" && info.Name != "OS_Practice_4-master"))
             {
                 info = info.Parent;
                 path = info.FullName;
@@ -219,8 +219,11 @@ namespace OS_Hub
 
         static void Main(string[] args)
         {
-            OS_Initial();
-            OS_PrintTable();
-        }
+      OS_Initial();
+      OS_PrintTable();
+      /* DirectoryInfo d = new(Directory.GetCurrentDirectory());
+       d = d.Parent;
+       Console.WriteLine($"{d.FullName}");*/
+    }
     }
 }

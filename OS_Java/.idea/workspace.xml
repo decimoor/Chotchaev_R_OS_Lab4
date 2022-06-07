@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3b90481-1fa1-4fc3-8022-0fe2f96e7067" name="Changes" comment="" />
+    <list default="true" id="d3b90481-1fa1-4fc3-8022-0fe2f96e7067" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../OS_Assembly/OS_Assembly.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../OS_Assembly/OS_Assembly.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OS_Cpp/OS_Cpp.vcxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../OS_Cpp/OS_Cpp.vcxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OS_Hub/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../OS_Hub/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/OS_Info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/resources/OS_Info.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OS_Python/OS_Info.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../OS_Python/OS_Info.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +40,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -40,7 +48,7 @@
     <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
